@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Shared List</string>
+    <string name="user_name">שם משתמש</string>
+    <string name="pass">סיסמה</string>
+    <string name="login">התחבר</string>
+    <string name="no_account_yet_create_one">עדיין אין לך חשבון? לחץ כאן</string>
+</resources>
